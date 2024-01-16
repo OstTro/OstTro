@@ -45,7 +45,7 @@
 <h2>
   <picture
     ><img
-      src="C:\Users\PC10-LAB3\Downloads\html5"
+      src="https://global-uploads.webflow.com/6157613743c4a96462bb6cc6/624e2277d49178ee71f72b84_html%20logo.png"
       width="25px"
   /></picture>
   / How to reach me /
