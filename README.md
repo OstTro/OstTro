@@ -15,7 +15,7 @@
 
   <h2>
     <picture
-      ><img src="https://www.bing.com/images/search?view=detailV2&ccid=o%2fRVvxpf&id=5DBE74AFA07B24F03E3266B91A2EB16AD428E0A4&thid=OIP.o_RVvxpfXWQucHwuTNgFzwHaHa&mediaurl=https%3a%2f%2fwww.ddesignerr.com%2fwp-content%2fuploads%2f2013%2f04%2fphp-logo1.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a3f455bf1a5f5d642e707c2e4cd805cf%3frik%3dpOAo1GqxLhq5Zg%26pid%3dImgRaw%26r%3d0&exph=200&expw=200&q=php&simid=608053995509536990&FORM=IRPRST&ck=36DE3B4859F074827573B1B98DEBECB8&selectedIndex=26&itb=0&ajaxhist=0&ajaxserp=0" width="25px"
+      ><img src="./assets/skills.gif" width="25px"
     /></picture>
     / About me /
   </h2>
