@@ -45,7 +45,7 @@
 <h2>
   <picture
     ><img
-      src="./assets/hollor_knight3.gif"
+      src="C:\Users\PC10-LAB3\Downloads\html5"
       width="25px"
   /></picture>
   / How to reach me /
