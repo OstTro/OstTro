@@ -30,7 +30,7 @@
 
   <h2>
     <picture
-      ><img src="./assets/skills.gif" width="25px"
+      ><img src="[./assets/skills.gif](https://www.ddesignerr.com/wp-content/uploads/2013/04/php-logo1.jpg)" width="25px"
     /></picture>
     / Current skills /
   </h2>
