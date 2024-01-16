@@ -15,7 +15,7 @@
 
   <h2>
     <picture
-      ><img src="./assets/skills.gif" width="25px"
+      ><img src="[./assets/skills.gif](https://www.pinpng.com/pngs/m/304-3046108_css3-logo-logos-css3-hd-png-download.png)" width="25px"
     /></picture>
     / About me /
   </h2>
